@@ -1,0 +1,9 @@
+index,uuid,driver_version,name,gpu_serial,display_active,display_mode
+0,GPU-107c38ef-34e4-20f4-4253-8e0f52e8cd93,525.125.06,NVIDIA GeForce RTX 3060,[N/A],Disabled,Disabled
+1,GPU-38ea8532-e832-e8ab-b464-ecd9ad51a191,525.125.06,NVIDIA GeForce RTX 3060,[N/A],Disabled,Disabled
+
+pid,process_name,gpu_uuid,gpu_name,used_memory
+
+index,utilization_gpu,memory_total,memory_used,memory_free,timestamp
+0,0,12288,22,12020,2023/09/27 05:26:18.389
+1,0,12288,8,12035,2023/09/27 05:26:18.390
